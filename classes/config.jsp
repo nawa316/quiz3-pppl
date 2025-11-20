@@ -2,11 +2,11 @@
 class Config{
 
 	public static String getDatabaseName(){
-		return "latihan1jsp";
+		return "quiz3";
 	}
 	
 	public static String getDatabaseHost(){
-		return "localhost:3306";
+		return "my-mysql:3306";
 	}
 	
 	public static String getDatabaseUser(){
@@ -14,7 +14,7 @@ class Config{
 	}
 	
 	public static String getDatabasePass(){
-		return "rahasia";
+		return "semangat136";
 	}
 	
 	public static String getTempDir(){
